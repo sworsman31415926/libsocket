@@ -1,5 +1,5 @@
 # README for libsocket
-
+20230203 user build in the arm the x86 test ok
 [![Travis Build
 Status](https://api.travis-ci.org/dermesser/libsocket.png)](https://travis-ci.org/dermesser/libsocket/)
 
